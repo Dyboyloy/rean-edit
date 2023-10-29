@@ -1,4 +1,4 @@
-#This is our website from React Js App
+This is our website from React Js App
 
 Rean Edit is the platform that we created for learning photoshop, premiere and much more.
 
